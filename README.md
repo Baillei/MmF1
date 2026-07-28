@@ -1,4 +1,4 @@
-# A_Differentiable_Joint_Trajectory_Approach（源码将在文章正式发表后开放）
+# A_Differentiable_Joint_Trajectory_Approach（文章已被接收，正文和源码将在文章正式发表后开放）
 This paper formulates this problem as maximizing the worst-user cumulative throughput over a time horizon,and introduces Differentiable Joint Trajectory Optimization,a fully differentiable framework that replaces hard max-min operations with smooth approximations, enabling gradient-based joint optimization of all UAV positions across time slots. 
 
 
